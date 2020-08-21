@@ -1,9 +1,11 @@
+
 main{
     width: 80%;
     margin:100px auto;
     display: flex;
     flex-direction: row;
     justify-content: space-between;
+    font-family: 'Muli ExtraLight';
     
 }
 section{
@@ -33,6 +35,7 @@ div a{
 }
 p{
     color: grey;
+   /* font-family: 'Muli ExtraLight';*/
 }
 .description{
     max-width: 280px;
