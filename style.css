@@ -69,4 +69,20 @@ p{
 .shadow{
     box-shadow:  0px 20px 57px -57px grey  ;
 }
+.favicon-div :first-child, .favicon-div :nth-child(3){
+    text-decoration-style: none;
+}
+.star{
+    width: 30px;
+    height: 30px;
+}
+.red-heart{
+    width: 35px;
+    height: 23px;
+}
+.grey-heart{
+    width: 21px;
+    height: 17px;
+    opacity:0.3;
+}
 
